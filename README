@@ -1,0 +1,2 @@
+SimpleSpriteAnimator is a scipt that animates background images.
+It also includes a polyfill for requestAnimationFrame.
